@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Unzeela
-- 👀 I’m interested in fictional characters, baking and coding
-- 🌱 I’m currently learning Python and Java
-- 😄 Pronouns: she/her
+
 
 
 <!---
